@@ -1,0 +1,17 @@
+
+.services{
+    text-align: center;
+}
+.service{
+    
+    text-align: center;
+    width: 20%;
+    float: left;
+}
+.icon{
+    background-color: orange;
+    color:white;
+}
+.clear{
+    clear: both;
+}
